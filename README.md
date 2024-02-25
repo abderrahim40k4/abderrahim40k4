@@ -1,7 +1,7 @@
 # 💫 About Me:
 working one vue project<br> looking for react/laravel project<br> I need help with learning dataBase megrate<br>currentl learning laravel<br>ask me about front-end and UI/UX desing<br>fact about me I'm developer 
-
-
+## 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahim40k4&label=Profile%20views&color=0e75b6&style=flat" alt="abderrahim40k4" /> </p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abderrahim_ait_oufassi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdo.desing) 
 
