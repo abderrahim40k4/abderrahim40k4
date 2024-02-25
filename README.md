@@ -1,5 +1,5 @@
 # 💫 About Me:
-vue project<br>react/laravel project<br>learn in dataBase megrate<br>laravel<br>front-end and UI/UX desing<br>I'm developer 
+working one vue project<br> looking for react/laravel project<br> I need help with learning dataBase megrate<br>currentl learning laravel<br>ask me about front-end and UI/UX desing<br>fact about me I'm developer 
 
 
 ## 🌐 Socials:
