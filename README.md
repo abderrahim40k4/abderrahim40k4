@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning MERN Stack<br>🎯 Goals: be the best version of me</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning IA<br>🎯 Goals: be the best version of me</p>
 
 ###
 
